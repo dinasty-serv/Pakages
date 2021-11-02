@@ -1,0 +1,17 @@
+{
+    "name": "apizee/test",
+    "description": "Test add packages",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Apizee\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nicolas de Fontaine",
+            "email": "nicolas.defontaine@apizee.com"
+        }
+    ],
+    "require": {}
+}
